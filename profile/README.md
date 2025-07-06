@@ -1,6 +1,6 @@
 This community-driven initiative is dedicated to **enhancing** developer skills, fostering collaboration, and showcasing innovative projects to a global audience. Our mission is to build a suite of interconnected tools and applications for a _fictional_ system about automotive care, leveraging modern technologies mainly around **Spring Framework**, **ReactJS**, and more.
 
-Founded by a [Firas Regaieg](https://github.com/firasrg), a fullstack developer with extensive experience in **JavaScript** and **Java** technologies. This organization aims to create good-quality, open-source projects that empower developers to learn, contribute, have fun and build a strong portfolio. We’re passionate about creating scalable projects, and fostering a welcoming community for people of all skill levels.
+Founded by [Firas Regaieg](https://github.com/firasrg), a fullstack developer with extensive experience in **JavaScript** and **Java** technologies. This organization aims to create good-quality, open-source projects that empower developers to learn, contribute, have fun and build a strong portfolio. We’re passionate about creating scalable projects, and fostering a welcoming community for people of all skill levels.
 
 ## Our Current Projects
 
